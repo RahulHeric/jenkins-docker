@@ -32,9 +32,9 @@ public class CalculatorTest {
 
 	@Test
 	public void testProduct() {
-		int result = calculator.multiplication(4, 4);
+		int result = calculator.multiplication(4, 5);
 
-		assertEquals(16, result);
+		assertEquals(20, result);
 		System.out.println("Test for Multiplications is done");
 	}
 	
