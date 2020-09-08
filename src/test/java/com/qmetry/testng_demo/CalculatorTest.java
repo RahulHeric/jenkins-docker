@@ -1,4 +1,4 @@
-package com.qmetry.testng_demo;
+package test.java.com.qmetry.testng_demo;
 
 import static org.junit.Assert.assertEquals;
 
@@ -9,8 +9,9 @@ import static org.junit.Assert.assertTrue;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.qmetry.Calculator;
-import com.qmetry.ICalculator;
+import main.java.com.qmetry.Calculator;
+import main.java.com.qmetry.ICalculator;
+
 
 
 public class CalculatorTest {

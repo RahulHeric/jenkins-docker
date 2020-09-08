@@ -1,4 +1,4 @@
-package com.qmetry;
+package main.java.com.qmetry;
 
 public interface ICalculator {
 	int sum(int a, int b);

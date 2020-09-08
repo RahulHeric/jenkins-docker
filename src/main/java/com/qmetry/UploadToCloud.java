@@ -5,7 +5,7 @@
  * NO CHANGE NEEDED IN THIS CLASS
  */
 
-package com.qmetry;
+package main.java.com.qmetry;
 
 import java.io.FileInputStream;
 import java.io.IOException;
